@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1480076491 source:d:\projects\ds\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1480404912 source:d:\projects\contact\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+
